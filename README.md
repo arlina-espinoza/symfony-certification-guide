@@ -9,7 +9,14 @@ Feel free to fork and send a PR.
 
 ### **Topics**
 ---
-#### **PHP**
+#### **PHP and Web Security**
+* PHP 5.3 to PHP 5.6 API
+http://php.net/manual/en/migration54.new-features.php
+http://php.net/manual/en/migration54.incompatible.php
+http://php.net/manual/en/migration55.new-features.php
+http://php.net/manual/en/migration55.incompatible.php
+http://php.net/manual/en/migration56.new-features.php
+http://php.net/manual/en/migration56.incompatible.php
 * Object Oriented Programming  
 http://www.php.net/manual/en/oop5.intro.php
 * Namespaces  
